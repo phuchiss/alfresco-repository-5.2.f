@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.alfresco:alfresco-legacy-lucene:tests:5.2.f">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/alfresco/alfresco-legacy-lucene/5.2.f/alfresco-legacy-lucene-5.2.f-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/alfresco/alfresco-legacy-lucene/5.2.f/alfresco-legacy-lucene-5.2.f-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/alfresco/alfresco-legacy-lucene/5.2.f/alfresco-legacy-lucene-5.2.f-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
